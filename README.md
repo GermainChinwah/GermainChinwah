@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...technology
 - 🌱 I’m currently learning ...nothing at the moment
 - 💞️ I’m looking to collaborate on ...anything
-- 📫 How to reach me ...cg88934@mail.harpercollege.edu
+- 📫 How to reach me ...
 
 <!---
 GermainChinwah/GermainChinwah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
